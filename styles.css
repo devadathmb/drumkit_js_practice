@@ -80,7 +80,7 @@ footer {
 }
 
 @media (max-width: 600px){
-  .button{
+  .drum{
     width: 25vw;
     height: 25vw;
   }
