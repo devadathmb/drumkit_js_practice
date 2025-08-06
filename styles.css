@@ -79,10 +79,11 @@ footer {
   background-color: white;
 }
 
-@media (max-width: 600px){
-  .drum{
+@media (max-width: 600px) {
+  .drum {
     width: 25vw;
     height: 25vw;
+    font-size: 4rem;
   }
-    
+  
 }
